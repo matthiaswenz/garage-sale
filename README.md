@@ -13,6 +13,7 @@ I'm moving in 2021 – I don't know the exact timing :crystal_ball:. I have a lo
 
 ## What's on sale?
 - [:book: Books](books.md)
+- [:pager: Electronics](electronics.md)
 - [:crystal_ball: Staging area](staging.md)
 
 ## Anything else?
