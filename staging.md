@@ -63,3 +63,4 @@ Once decided I'll move them to any respective lists.
 | IKEA BESTA TV unit, white | [IKEA](https://www.ikea.com/us/en/p/besta-tv-unit-white-00474070/) | incl feet
 | IKEA KALLAX Shelf unit, white 2x4 | [IKEA](https://www.ikea.com/us/en/p/kallax-shelf-unit-white-80275887/) | incl 4 [Dröna Boxes](https://www.ikea.com/us/en/p/droena-box-white-00306270/) white, 4 [Branäs Baskets](https://www.ikea.com/us/en/p/branaes-basket-rattan-00138432/), rattan
 | IKEA EXPEDIT Shelf unit, birch, 4x4 | predecessor to [IKEA KALLAX](https://www.ikea.com/us/en/p/kallax-shelf-unit-walnut-effect-light-gray-00360144/) | incl 2 gray, 2 red Dröna boxes
+| IKEA MALM Bed Frame, Queen size, black-brown | [IKEA](https://www.ikea.com/us/en/p/malm-bed-frame-high-black-brown-s39931162/) | Bought in Germany, queen-size equivalent, including matching slatted frame (140x200cm, 55x78")
