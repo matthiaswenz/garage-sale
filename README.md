@@ -12,7 +12,7 @@ I'm moving in 2021. I have a lot of stuff I don't need anymore or don't want to 
 - I generally don't accept PRs, issues, etc. - don't open an issue asking for contact information etc. if you got access to this repo, you'll know how to contact me. Otherwise use platforms like Craigslist, eBay, ...
 
 ## What's on sale?
-- TBD
+- [Books](books.md)
 
 ## Anything else?
 2020/2021 has been tough. If you know someone in desparate need of something from this list, or a good cause to donate items/proceeds to, let me know.
