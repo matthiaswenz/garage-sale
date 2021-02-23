@@ -13,6 +13,7 @@ I'm moving in 2021 – I don't know the exact timing :crystal_ball:. I have a lo
 
 ## What's on sale?
 - [:book: Books](books.md)
+- [:crystal_ball: Staging area](staging.md)
 
 ## Anything else?
 2020/2021 has been tough. If you know someone in desparate need of something from this list, or a good cause to donate items/proceeds to, let me know.
