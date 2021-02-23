@@ -2,11 +2,10 @@
 Here are things I'm preparing to get rid of – this ought to give you an idea of things that might come online later. I might not have ultimately decided on whether to keep it.
 Once decided I'll move them to any respective lists.
 
+## Electronics
+
 | Item | Sample link | Remarks | 
 |---|---|---|
-| DJI Mavic Pro, Fly More Combo | [Amazon](https://www.amazon.com/DJI-Mavic-Pro-More-Combo/dp/B01LYNH0BD) | Testing equipment and making sure it still works
-| DJI Osmo Pocket | [DJI](https://www.dji.com/osmo-pocket) (possibly newer version) | Testing it still works
-| DJI Goggles | [DJI](https://www.dji.com/dji-goggles) (possibly newer version) | Collecting accessories
 | Philips Hue Starter set (bridge, various bulbs) | [Philips Hue](https://www.philips-hue.com/en-us/products/smart-lighting-starter-kits) | Creating inventory... 
 | Philips Hue Play White & Color, 2 Pack, black | [Amazon](https://www.amazon.com/Philips-White-Color-Ambiance-Double/dp/B07GXB3S7Z) | with original packaging
 | Logitech Circle 2, white | [Amazon](https://www.amazon.com/gp/product/B0711V3LSQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | Discontinued by Logitech, EU-Plug for USB, updated to Apple HomeKit-only software
