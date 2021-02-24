@@ -12,7 +12,7 @@ I'm only selling functional stuff, most of these items have not been used in a w
 | DJI Osmo Pocket | $150 | now | [DJI](https://www.dji.com/osmo-pocket) (possibly newer version) | [craigslist](https://seattle.craigslist.org/see/ele/d/seattle-dji-osmo-pocket/7281852316.html) | Including case, original packaging, action camera mount
 | Google Nexus 5X, white | $40 | now | [Wikipedia](https://en.wikipedia.org/wiki/Nexus_5X) | [craigslist](https://seattle.craigslist.org/see/ele/d/seattle-nexus-5x/7282281809.html) | Latest available Android installed, no more security patches, USB-C cable available, no power supply
 | Intel NUC DN2820 FYK | $80 | now | [Intel](https://ark.intel.com/content/www/us/en/ark/products/78953/intel-nuc-kit-dn2820fykh.html) | [craigslist](https://seattle.craigslist.org/see/sys/d/seattle-intel-nuc-dn2820fyk/7282284636.html) | incl power supply, 4GB DDR3 memory, no hard drive
-| PN2000 Electricity Usage Monitor | free | now | [Amazon](https://www.amazon.com/gp/product/B0777H8MS8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
+| PN2000 Electricity Usage Monitor | free | claimed | [Amazon](https://www.amazon.com/gp/product/B0777H8MS8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
 | Programmable Outlet/Wall Switch | free | now | [Amazon](https://www.amazon.com/gp/product/B06XHM1ZZ4/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
 | TP-Link 8-Port Gigabit Switch | free | now | ... |  | 2 available, EU-plug power supply
 | TP-Link Archer C7 AC1750 Router | tbd | now | [TP-Link](https://www.tp-link.com/us/home-networking/wifi-router/archer-c7) | | 2017 model, rev 2
