@@ -11,17 +11,11 @@ Once decided I'll move them to any respective lists.
 | Logitech Circle 2, white | soon | [Amazon](https://www.amazon.com/gp/product/B0711V3LSQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | Discontinued by Logitech, EU-Plug for USB, updated to Apple HomeKit-only software
 | Eufy HomeVac Duo | April | [Amazon](https://www.amazon.com/gp/product/B01K1XNVW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 
 | Amazon Fire TV Stick 1st gen 1080p, HDMI | now |  | Incl remote, HDMI dongle, no batteries, latest OS: 5.2.7.3, no USB plug/cable
-| Amazon Fire TV 4k (2017) | now | [Amazon](https://www.amazon.com/gp/product/B01N32NCPM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | With Alexa voice remote, latest OS installed, no USB plug/cable
 | Vizio M50-E1, 50" class 4k/HDR LED TV | April | [Vizio](https://www.vizio.com/m50e1.html) | 2017 model, with remote, original packaging, not before April 2021
 | Vizio SmartCast 38" 5.1 Sound Bar system | April | [Vizio](https://www.vizio.com/sb3851d0.html) | 2017 model, with remote, not before April 2021
 | Apple HomePod 1st gen, white | April | [Apple](https://www.apple.com/homepod/) | original packaging, not before April 2021
-| TP-Link Archer C7 AC1750 Router | now | [TP-Link](https://www.tp-link.com/us/home-networking/wifi-router/archer-c7) | 2017 model, rev 2
-| TP-Link 8-Port Gigabit Switch | now | ... | 2 available, EU-plug power supply
-| Google Nexus 5X, white | now | [Wikipedia](https://en.wikipedia.org/wiki/Nexus_5X)  | Latest available Android installed, no more security patches, USB-C cable available, no power supply
-| Intel NUC DN2820 FYK | now | [Intel](https://ark.intel.com/content/www/us/en/ark/products/78953/intel-nuc-kit-dn2820fykh.html) | w/ power supply, 4GB DDR3 memory, no hard drive
 | Samsung P2450H, 24" monitor | now | [Samsung](https://www.samsung.com/us/business/support/owners/product/p2450-series-p2450h/) | 24", 1080p, EU-version, no power cable, packaging or other cables
 | Bose Soundlink Mini II | now | [Bose](https://www.bose.com/en_us/support/products/bose_speakers_support/bose_portable_speakers_support/soundlink_mini_ii.html) | w/ micro-USB cable, charging base, EU-style plug USB charger
-| DJI Osmo Action | soon | [DJI](https://store.dji.com/product/osmo-action?site=brandsite&from=buy_now_bar&vid=80181) (might be newer model) | Camera, with 64 GB class 10 microSD card, 3 batteries (2 spares), battery cases, mount, USB-C cable, DJI action mount kit, original packaging
 | GoPro Hero HD | now | ... | Original GoPro HD action camera, ancient still works, incl some mounting accessories, GoPro chest mount
 | Behringer U-Phoria UM2 | soon | [Behringer](https://www.behringer.com/product.html?modelCode=P0AVV) | USB-Audio interface, incl USB-A-B cable
 | Beyerdynamic DT-297 headset | soon | [Beyerdynamic](https://north-america.beyerdynamic.com/dt-297-pv.html) | XLR, 80ohm
@@ -37,8 +31,6 @@ Once decided I'll move them to any respective lists.
 | Sunbeam 1400W Watt Steam Iron | soon | [Amazon](https://www.amazon.com/gp/product/B01AX6RCD8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
 | PowerBright Up/Down Transformer 110-220V 500W | April | [Amazon](https://www.amazon.com/gp/product/B000MX1QXA/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) |
 | CyberPower UPS CP1000PFCLCD 1000VA/600W | April | [Amazon](https://www.amazon.com/gp/product/B00429N192/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | 
-| PN2000 Electricity Usage Monitor | now | [Amazon](https://www.amazon.com/gp/product/B0777H8MS8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
-| Programmable Outlet/Wall Switch | now | [Amazon](https://www.amazon.com/gp/product/B06XHM1ZZ4/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
 
 ## Kitchen stuff
 
