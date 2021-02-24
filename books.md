@@ -12,5 +12,5 @@ I've read most of these books, but have switched to audio books. I generally don
 | Hit Refresh | Satya Nadella | now | Microsoft Employee Edition
 | Radical Candor | Kim Scott | now | 
 | Steve Jobs | Walter Isaacson | now | 
-| Tribal Leadership | Dave Logan, John King, Halee Fischer-Wright | now | 
+| Tribal Leadership | Dave Logan, John King, Halee Fischer-Wright | claimed | 
 | Wicked Good Burgers | Andy Husbands, Christ Hart, Andrea Pyenson | now | 
