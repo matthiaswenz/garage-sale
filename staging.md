@@ -20,6 +20,11 @@ Once decided I'll move them to any respective lists.
 | Google Nexus 5X, white | [Wikipedia](https://en.wikipedia.org/wiki/Nexus_5X)  | Latest available Android installed, no more security patches, USB-C cable available, no power supply
 | Intel NUC DN2820 FYK | [Intel](https://ark.intel.com/content/www/us/en/ark/products/78953/intel-nuc-kit-dn2820fykh.html) | w/ power supply, 4GB DDR3 memory, no hard drive
 | Samsung P2450H, 24" monitor | [Samsung](https://www.samsung.com/us/business/support/owners/product/p2450-series-p2450h/) | 24", 1080p, EU-version, no power cable, packaging or other cables
+| Bose Soundlink Mini II | [Bose](https://www.bose.com/en_us/support/products/bose_speakers_support/bose_portable_speakers_support/soundlink_mini_ii.html) | w/ micro-USB cable, charging base, EU-style plug USB charger
+| DJI Osmo Action | [DJI](https://store.dji.com/product/osmo-action?site=brandsite&from=buy_now_bar&vid=80181) (might be newer model) | Camera, with 64 GB class 10 microSD card, 3 batteries (2 spares), battery cases, mount, USB-C cable, DJI action mount kit, original packaging
+| GoPro Hero HD | ... | Original GoPro HD action camera, ancient still works, incl some mounting accessories, GoPro chest mount
+| Behringer U-Phoria UM2 | [Behringer](https://www.behringer.com/product.html?modelCode=P0AVV) | USB-Audio interface, incl USB-A-B cable
+| Beyerdynamic DT-297 headset | [Beyerdynamic](https://north-america.beyerdynamic.com/dt-297-pv.html) | XLR, 80ohm
 
 ## Home stuff
 
