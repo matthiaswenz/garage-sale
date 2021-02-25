@@ -31,6 +31,8 @@ Once decided I'll move them to any respective lists.
 | Sunbeam 1400W Watt Steam Iron | soon | [Amazon](https://www.amazon.com/gp/product/B01AX6RCD8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
 | PowerBright Up/Down Transformer 110-220V 500W | April | [Amazon](https://www.amazon.com/gp/product/B000MX1QXA/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) |
 | CyberPower UPS CP1000PFCLCD 1000VA/600W | April | [Amazon](https://www.amazon.com/gp/product/B00429N192/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | 
+| IKEA JÄLL Drying rack, white/blue | soon | [IKEA](https://www.ikea.com/us/en/p/jaell-drying-rack-indoor-outdoor-white-80242892/) | different colors than on IKEA US website
+| IKEA MULIG Drying rack, white | soon | [IKEA](https://www.ikea.com/us/en/p/mulig-drying-rack-indoor-outdoor-white-50228755/) | 
 
 ## Kitchen stuff
 
@@ -60,3 +62,14 @@ Once decided I'll move them to any respective lists.
 | IKEA KALLAX Shelf unit, white 2x4 | March | [IKEA](https://www.ikea.com/us/en/p/kallax-shelf-unit-white-80275887/) | incl 4 [Dröna Boxes](https://www.ikea.com/us/en/p/droena-box-white-00306270/) white, 4 [Branäs Baskets](https://www.ikea.com/us/en/p/branaes-basket-rattan-00138432/), rattan
 | IKEA EXPEDIT Shelf unit, birch, 4x4 | April | predecessor to [IKEA KALLAX](https://www.ikea.com/us/en/p/kallax-shelf-unit-walnut-effect-light-gray-00360144/) | incl 2 gray, 2 red Dröna boxes
 | IKEA MALM Bed Frame, Queen size, black-brown | April | [IKEA](https://www.ikea.com/us/en/p/malm-bed-frame-high-black-brown-s39931162/) | Bought in Germany, queen-size equivalent, including matching slatted frame (140x200cm, 55x78")
+| IKEA EKRAR Hat and Coat stand, white | soon | [IKEA](https://www.ikea.com/us/en/p/ekrar-hat-and-coat-stand-white-10415594/) | 
+| IKEA MACKAPÄR Shoe rack, white | soon | [IKEA](https://www.ikea.com/us/en/p/mackapaer-shoe-rack-white-20336233/) | four total levels
+| IKEA MOLGER Shelve, dark walnut | soon | [IKEA UK](https://www.ikea.com/gb/en/p/molger-shelving-unit-birch-20154591/) (not available in US) | 
+| IKEA JONAXEL Frame with wire baskets, white | soon | [IKEA](https://www.ikea.com/us/en/p/jonaxel-frame-with-wire-baskets-white-s09297134/) | 
+
+## Lighting
+
+| Item | Availability | Sample link | Remarks |
+|---|---|---|---|
+| IKEA NOT Floor uplight/reading light | April | [IKEA](https://www.ikea.com/us/en/p/not-floor-uplight-reading-lamp-black-white-70145132/) | Bulbs included
+| IKEA TGAGARP uplight | April | [IKEA](https://www.ikea.com/us/en/p/tagarp-floor-uplighter-with-light-bulb-black-white-40464045/) |
