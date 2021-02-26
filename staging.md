@@ -16,9 +16,7 @@ Once decided I'll move them to any respective lists.
 | Apple HomePod 1st gen, white | April, claimed | [Apple](https://www.apple.com/homepod/) | original packaging, not before April 2021
 | Samsung P2450H, 24" monitor | now | [Samsung](https://www.samsung.com/us/business/support/owners/product/p2450-series-p2450h/) | 24", 1080p, EU-version, no power cable, packaging or other cables
 | Bose Soundlink Mini II | now | [Bose](https://www.bose.com/en_us/support/products/bose_speakers_support/bose_portable_speakers_support/soundlink_mini_ii.html) | w/ micro-USB cable, charging base, EU-style plug USB charger
-| GoPro Hero HD | now | ... | Original GoPro HD action camera, ancient still works, incl some mounting accessories, GoPro chest mount
-| Behringer U-Phoria UM2 | soon | [Behringer](https://www.behringer.com/product.html?modelCode=P0AVV) | USB-Audio interface, incl USB-A-B cable
-| Beyerdynamic DT-297 headset | soon | [Beyerdynamic](https://north-america.beyerdynamic.com/dt-297-pv.html) | XLR, 80ohm
+
 
 ## Home stuff
 

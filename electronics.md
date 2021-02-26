@@ -16,3 +16,6 @@ I'm only selling functional stuff, most of these items have not been used in a w
 | Programmable Outlet/Wall Switch | free | now | [Amazon](https://www.amazon.com/gp/product/B06XHM1ZZ4/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
 | TP-Link 8-Port Gigabit Switch | free | now | ... |  | 2 available, EU-plug power supply
 | TP-Link Archer C7 AC1750 Router | tbd | now | [TP-Link](https://www.tp-link.com/us/home-networking/wifi-router/archer-c7) | | 2017 model, rev 2
+| GoPro Hero HD | your offer | now | ... | | Original GoPro HD action camera, ancient still works, incl some mounting accessories, GoPro chest mount
+| Behringer U-Phoria UM2 | $40 | now | [Behringer](https://www.behringer.com/product.html?modelCode=P0AVV) | [craigslist](https://seattle.craigslist.org/see/ele/d/seattle-behringer-phoria-um2-usb-audio/7283297117.html) | USB-Audio interface, incl USB-A-B cable
+| Beyerdynamic DT-297 headset | $140 | now | [Beyerdynamic](https://north-america.beyerdynamic.com/dt-297-pv.html) | [craigslist](https://seattle.craigslist.org/see/ele/d/seattle-beyerdynamic-dt-297-headphones/7283301923.html) | XLR, 80ohm, with 10ft cable
