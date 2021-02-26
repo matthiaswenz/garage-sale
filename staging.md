@@ -73,3 +73,20 @@ Once decided I'll move them to any respective lists.
 |---|---|---|---|
 | IKEA NOT Floor uplight/reading light | April | [IKEA](https://www.ikea.com/us/en/p/not-floor-uplight-reading-lamp-black-white-70145132/) | Bulbs included
 | IKEA TGAGARP uplight | April | [IKEA](https://www.ikea.com/us/en/p/tagarp-floor-uplighter-with-light-bulb-black-white-40464045/) |
+
+## Toys
+
+| Item | Availability | Sample link | Remarks |
+|---|---|---|---|
+| Funko bobblehead figures | soon | ... | Marvel: Rocket, Groot, Baby Groot from Guardians of the Galaxy, Nelson from The Simpsons, Star Wars Storm Trooper
+| Looping Louie | soon | [Amazon](https://www.amazon.com/Loopin-Louie-Interactive-Family-Board/dp/B079T4JVJ7) | German version of the favorite kids game... or something like that... play/drink responsibly
+| Sphero BB-8 | soon | [Sphero](https://sphero.com/pages/legacy-products) | Self-stabilizing gyro, with Android/iOS app for remote control - needs Micro USB cable for charging base
+| Big Hero 6 plush figure | soon | [Amazon](https://www.amazon.com/Disney-Parks-Hero-Baymax-Plush/dp/B08NV9PGM6/ref=sr_1_1?dchild=1&keywords=big+hero+6+plush&qid=1614305450&sr=8-1) | 
+
+## Bikes / Gear
+
+| Item | Availability | Sample link | Remarks |
+|---|---|---|---|
+| Canyon Strive ES 8.0 Enduro MTB | soon | [Canyon product catalogue 2011](https://issuu.com/canyon_bicycles/docs/canyon_mtb_2011/31) | Size L. 2011 model with 2014 black stealth frame after buddy crashed it. 160mm front/rear suspension: Fox 36 TALAS FIT fork, Float RP2 ProPedal shock. Shimano XT 2x10 drivetrain and 203mm XT disc brakes, KindShock Lev dropper post, Sunringle Charger Pro wheels, tubeless ready, 26x2.4" Schwalbe Fat Albert tires, new linkage bolts and bottom bracket installed 2020 - will throw in plenty of spare parts, tubes, brake bleed kit, etc. 
+| Cube Cross Race Disc 2015 Cyclocross bike | soon | [Bikelist reference sheet](https://www.thebikelist.co.uk/cube/cross-race-disc) | Bought 2015 at local shop in Germany and shipped to the US. Size 56. ~10kg Shimano 105 2x11 drivetrain and mechanical disc brakes. New handlebar tape in 2019. Switched Schwalbe Rocket Ron gravel tires to Conti GP 4 Season, but original tires included.
+| MET Parachute Enduro Helmet | soon | [MET site](https://www.met-helmets.com/en/shop/mtb-helmets/enduro-helmets/parachute/) depicts newer model | 2014 model, dark gray, red - typical usage, had no crashes with damage to helmet
