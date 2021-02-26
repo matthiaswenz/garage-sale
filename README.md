@@ -12,8 +12,12 @@ I'm moving in 2021 – I don't know the exact timing :crystal_ball:. I have a lo
 - :love_letter: Most people seeing this repo will know how to contact me. If you don't feel free to reach out to me via Twitter/... - contact info is in my [profile](https://github.com/matthiaswenz). PRs are a good starting point for claiming something. Otherwise use platforms like Craigslist, eBay, ...
 
 ## What's on sale?
+### Available now
 - [:book: Books](books.md)
 - [:pager: Electronics](electronics.md)
+- [:file_cabinet: Furniture](furniture.md)
+
+### Available soon
 - [:crystal_ball: Staging area](staging.md)
 
 ## Anything else?

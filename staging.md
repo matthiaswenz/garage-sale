@@ -55,7 +55,6 @@ Once decided I'll move them to any respective lists.
 
 | Item | Availability | Sample link | Remarks |
 |---|---|---|---|
-| IKEA MALM 6-drawer chest, black-brown | soon | [IKEA](https://www.ikea.com/us/en/p/malm-6-drawer-chest-black-brown-10360474/) | incl glass protective panel, got from a family member, about 10 years, some small spillage marks inside
 | IKEA MALM 2-drawer chest, black-brown | soon | [IKEA](https://www.ikea.com/us/en/p/malm-2-drawer-chest-black-brown-00103343/) | 
 | IKEA ALEX Drawer unit on casters, white | soon | [IKEA](https://www.ikea.com/us/en/p/alex-drawer-unit-on-casters-white-40196241/) | Shipped from Germany
 | IKEA BESTA TV unit, white | April | [IKEA](https://www.ikea.com/us/en/p/besta-tv-unit-white-00474070/) | incl feet
