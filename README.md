@@ -16,6 +16,7 @@ I'm moving in 2021 – I don't know the exact timing :crystal_ball:. I have a lo
 - [:book: Books](books.md)
 - [:pager: Electronics](electronics.md)
 - [:file_cabinet: Furniture](furniture.md)
+- [:bicyclist: (Sports) Gear](gear.md)
 
 ### Available soon
 - [:crystal_ball: Staging area](staging.md)
