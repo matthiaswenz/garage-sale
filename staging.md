@@ -14,9 +14,6 @@ Once decided I'll move them to any respective lists.
 | Vizio M50-E1, 50" class 4k/HDR LED TV | April | [Vizio](https://www.vizio.com/m50e1.html) | 2017 model, with remote, original packaging, not before April 2021
 | Vizio SmartCast 38" 5.1 Sound Bar system | April | [Vizio](https://www.vizio.com/sb3851d0.html) | 2017 model, with remote, not before April 2021
 | Apple HomePod 1st gen, white | April, claimed | [Apple](https://www.apple.com/homepod/) | original packaging, not before April 2021
-| Samsung P2450H, 24" monitor | now | [Samsung](https://www.samsung.com/us/business/support/owners/product/p2450-series-p2450h/) | 24", 1080p, EU-version, no power cable, packaging or other cables
-| Bose Soundlink Mini II | now | [Bose](https://www.bose.com/en_us/support/products/bose_speakers_support/bose_portable_speakers_support/soundlink_mini_ii.html) | w/ micro-USB cable, charging base, EU-style plug USB charger
-
 
 ## Home stuff
 
