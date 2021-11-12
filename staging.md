@@ -6,24 +6,11 @@ Once decided I'll move them to any respective lists.
 
 | Item | Availability | Sample link | Remarks | 
 |---|---|---|---|
-| Philips Hue Starter set (bridge, various bulbs) | TBD | [Philips Hue](https://www.philips-hue.com/en-us/products/smart-lighting-starter-kits) | Creating inventory... 
-| Philips Hue Play White & Color, 2 Pack, black | March/April | [Amazon](https://www.amazon.com/Philips-White-Color-Ambiance-Double/dp/B07GXB3S7Z) | with original packaging
-| Logitech Circle 2, white | TBD | [Amazon](https://www.amazon.com/gp/product/B0711V3LSQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | Discontinued by Logitech, EU-Plug for USB, updated to Apple HomeKit-only software
-| Eufy HomeVac Duo | TBD | [Amazon](https://www.amazon.com/gp/product/B01K1XNVW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 
-| Amazon Fire TV Stick 1st gen 1080p, HDMI | now |  | Incl remote, HDMI dongle, no batteries, latest OS: 5.2.7.3, no USB plug/cable
-| Vizio M50-E1, 50" class 4k/HDR LED TV | TBD | [Vizio](https://www.vizio.com/m50e1.html) | 2017 model, with remote, original packaging, not before April 2021
-| Vizio SmartCast 38" 5.1 Sound Bar system | TBD | [Vizio](https://www.vizio.com/sb3851d0.html) | 2017 model, with remote, not before April 2021
-| Apple HomePod 1st gen, white | April, claimed | [Apple](https://www.apple.com/homepod/) | original packaging, not before April 2021
 
 ## Home stuff
 
 | Item | Availability | Sample link | Remarks |
 |---|---|---|---|
-| Lasko Space Heater 1500W | TBD | [Amazon](https://www.amazon.com/Lasko-754200-Portable-Adjustable-Thermostat/dp/B000TKDQ5C) | 
-| AmazonBasics Oscillating Space Heater 1500W | TBD | [Amazon](https://www.amazon.com/gp/product/B07V4FNHCD/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | 
-| TaoTronics VAVA Desk Lamp | now | [Amazon](https://www.amazon.com/gp/product/B06XWPW158/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | 
-| Honeywell HT-900 Fan | TBD | [Amazon](https://www.amazon.com/gp/product/B001R1RXUG/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1) | 
-| Sunbeam 1400W Watt Steam Iron | TBD | [Amazon](https://www.amazon.com/gp/product/B01AX6RCD8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 
 | PowerBright Up/Down Transformer 110-220V 500W | TBD | [Amazon](https://www.amazon.com/gp/product/B000MX1QXA/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) |
 | CyberPower UPS CP1000PFCLCD 1000VA/600W | TBD | [Amazon](https://www.amazon.com/gp/product/B00429N192/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | 
 | IKEA JÄLL Drying rack, white/blue | TBD | [IKEA](https://www.ikea.com/us/en/p/jaell-drying-rack-indoor-outdoor-white-80242892/) | different colors than on IKEA US website
