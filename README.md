@@ -13,13 +13,8 @@ I'm moving in December 2021. I have a lot of stuff I don't need anymore or don't
 
 ## What's on sale?
 ### Available now
-- [:book: Books](books.md)
 - [:pager: Electronics](electronics.md)
 - [:file_cabinet: Furniture](furniture.md)
-- [:bicyclist: (Sports) Gear](gear.md)
-
-### Available soon
-- [:crystal_ball: Staging area](staging.md)
 
 ## Anything else?
 2020/2021 has been tough on all of us. If you know someone in desparate need of something from this list, or a good cause to donate items/proceeds to, let me know.
